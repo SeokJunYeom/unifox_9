@@ -5,8 +5,9 @@
 * [slack](https://totheworldunifox.slack.com/messages/G4LGU3G0Y/)
 * [github](https://github.com/SeokJunYeom/unifox_9)
 
-## directory 구조
-* [1주차](./1주차/)
+## directory
+* [intro](./intro.pptx)
+* [1주차](./1주차)
     + [curriculum](./1주차/curriculum.md)
     + [1차시](./1주차/1차시)
         - [ppt](./1주차/1차시/lecture.pptx)
