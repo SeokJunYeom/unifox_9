@@ -4,11 +4,12 @@
 *	2.x 버전과 3.x 버전의 차이
 *   Python 및 에디터 설치
 
-*2.	기초 자료형*
+*2.	data type*
 
 *	dynamic type checking
 *	변수
-*	숫자 자료형
+*	숫자형
+*   String
 *	List
 *	Tuple
 *	Dictionary
