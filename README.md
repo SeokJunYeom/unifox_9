@@ -1,4 +1,5 @@
 # UNIFOX python, git 수업
+> _Copyright (c) 2017, seokjunyeom_
 
 ## 사용 서비스
 * [trello](https://trello.com/b/uRwcgeDK/schedule)
@@ -13,3 +14,7 @@
         - [ppt](./1주차/1차시/lecture.pptx)
     + [2차시](./1주차/2차시)
         - [ppt](./1주차/2차시/lecture.pptx)
+        
+## 참고한 사이트
+* <https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7>
+* <https://wikidocs.net/book/1>

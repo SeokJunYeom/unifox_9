@@ -22,8 +22,9 @@
 *	if, elif, else
 *	for
 *	while
+*   list in comprehension
 
 *4.	함수*
 
-*	BIF(Built-in function) 와 method
+*	function 과 method
 *	선언 및 사용
