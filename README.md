@@ -14,7 +14,12 @@
         - [ppt](./1주차/1차시/lecture.pptx)
     + [2차시](./1주차/2차시)
         - [ppt](./1주차/2차시/lecture.pptx)
+* [2주차](./2주차)
+    + [curriculum](./2주차/curriculum.md)
+    + [1차시](./2주차/1차시)
+        - [ppt](./2주차/1차시/lecture.pptx)
         
 ## 참고한 사이트
 * <https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7>
 * <https://wikidocs.net/book/1>
+* <https://git-scm.com/book/ko/v2>
