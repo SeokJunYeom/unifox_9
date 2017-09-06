@@ -20,6 +20,8 @@
         - [ppt](./2주차/1차시/lecture.pptx)
     + [2차시](./2주차/2차시)
         - [ppt](./2주차/2차시/lecture.pptx)
+    + [3차시](./2주차/3차시)
+        - [ppt](./2주차/3차시/lecture.pptx)
         
 ## 참고한 사이트
 * <https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7>
@@ -27,3 +29,6 @@
 * <https://git-scm.com/book/ko/v2>
 * <https://ziwon.github.io/posts/python_magic_methods/>
 * <https://corikachu.github.io/articles/python/python-magic-method>
+* <http://jonnung.github.io/python/2015/08/17/python-decorator/>
+* <http://hamait.tistory.com/635>
+* <http://hamait.tistory.com/827>
